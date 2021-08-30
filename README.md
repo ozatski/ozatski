@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ozatski
+- 👋 Hi, I’m Thomaz Ozatski
 - 👀 I’m interested in Python, PHP, React, Pandas, Docker
 - 🌱 I’m currently learning Data Science and Data Engineering
 - 💞️ I’m looking to collaborate on any project that solves a real life problem
