@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thomaz Ozatski
-- 👀 I’m interested in Python, PHP, React, Pandas, Docker
+- 👀 I’m interested in Python, PHP, React, Pandas, Docker and many other tech stuff
 - 🌱 I’m currently learning Data Science and Data Engineering
 - 💞️ I’m looking to collaborate on any project that solves a real life problem
 - 📫 How to reach me: this GitHub profile =)
