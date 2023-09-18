@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thomaz Ozatski
-- 👀 I’m interested in Python, PHP, React, Pandas, Docker and many other tech stuff
-- 🌱 I’m currently learning Data Science and Data Engineering
-- 💞️ I’m looking to collaborate on any project that solves a real life problem
+- 👀 I’m interested in Python, Android, Flutter, IOS, React, Pandas, Docker and many other tech stuff
+- 🌱 I’m taking the MSD (Mobile Solutions Development) at Conestoga College.
+- 💞️ I’m looking to collaborate on any project that solves a real-life problem
 - 📫 How to reach me: this GitHub profile =)
 
 <!---
